@@ -1,0 +1,36 @@
+Hi Script EXPLOIT LARAVAL
+CVE : 2017-9841 
+- add paths /lists_/paths.txt
+
+laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+wp-admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+wp-content/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+wp-includes/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+modules/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+images/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+files/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+uploads/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+laravel52/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+administration/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+marketing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+plugin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+modules/gamification/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+modules/autoupgrade/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+modules/ps_facetedsearch/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+
+[Note]: If you have any new suggestion.
+Leave us a message About it: @Deadcode1975 -- canal @team1975
+-- Coded by Deadcode1975 
